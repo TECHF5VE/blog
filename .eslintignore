@@ -1,0 +1,8 @@
+scripts/*
+
+config/*
+public/*
+
+images.d.ts
+package.json
+tsconfig.json
